@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\School\\Project\\Net\\TeaTimeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42CB21C5-7691-4D2E-BBAC-83A4C9E8FBFC}|TeaTimeDemo\\TeaTimeDemo.csproj|c:\\users\\user\\desktop\\school\\project\\net\\teatimedemo\\teatimedemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CB21C5-7691-4D2E-BBAC-83A4C9E8FBFC}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CB21C5-7691-4D2E-BBAC-83A4C9E8FBFC}|TeaTimeDemo\\TeaTimeDemo.csproj|c:\\users\\user\\desktop\\school\\project\\net\\teatimedemo\\teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42CB21C5-7691-4D2E-BBAC-83A4C9E8FBFC}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\School\\Project\\Net\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\School\\Project\\Net\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TeaTimeDemo\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T19:25:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\School\\Project\\Net\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\School\\Project\\Net\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwDAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-04T19:07:41.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
